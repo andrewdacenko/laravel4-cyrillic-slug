@@ -9,7 +9,7 @@ Edit your project's `composer.json` file to require `ivanlemeshev/laravel4-cyril
 
     "require": {
         "laravel/framework": "4.0.*",
-        "ivanlemeshev/laravel4-cyrillic-slug": "dev-master"
+        "ivanlemeshev/laravel4-cyrillic-slug": "dev-laravel-4"
     },
     "minimum-stability" : "dev"
 
